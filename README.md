@@ -1,7 +1,9 @@
 # sql
 
-05 
+05
+<br>
 select, sum,max,min
+<br>
 [조건에 맞는 회원수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131535)
 <br>
 [상위 n개 레코드](https://school.programmers.co.kr/learn/courses/30/lessons/59405)
@@ -25,13 +27,22 @@ select, sum,max,min
 
 
 06
+<br>
 group by, is null,
+<br>
 join, string, date
+<br>
 07
+<br>
 hackerank test
-
+<br>
 08
+<br>
 hackerrank test
+<br>
 leetcode test
+<br>
 09
+<br>
 testㅍㅎ휴ㅠㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡ
+<br>
