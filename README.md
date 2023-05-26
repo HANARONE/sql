@@ -1,30 +1,9 @@
 # sql
-> Oracle, programmers, Hackerrank
+> Oracle, Programmers, HackerRank
 
 05월
 <br>
 select, sum,max,min
-<br>
-[조건에 맞는 회원수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131535)
-<br>
-[상위 n개 레코드](https://school.programmers.co.kr/learn/courses/30/lessons/59405)
-<br>
-[여러 기준으로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59404)
-<br>
-[동물의 아이디와 이름](https://school.programmers.co.kr/learn/courses/30/lessons/59403)
-<br>
-[어린 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59037)
-<br>
-[아픈 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59036)
-<br>
-[역순 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59035)
-<br>
-[모든 레코드 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/59034)
-<br>
-[12세 이하인 여자 환자 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132201)
-<br>
-[HackerRank_New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true)
-<br>
 
 
 06월
@@ -55,7 +34,7 @@ testㅍㅎ휴ㅠㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡ
 
 <br>
 
-## :notebook_with_decorative_cover: Algorithms Challenge (feat.programmers)
+## :notebook_with_decorative_cover: Algorithms Challenge (feat.Programmers,HackerRank,LeetCode)
 
 - Goal :
   1. Algorithmic Thinking
@@ -63,13 +42,13 @@ testㅍㅎ휴ㅠㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡ
 - How to achieve goal ?
   - Solve 1 problem during dinner time
   - Whether its solved will be marked with :white_check_mark: or :negative_squared_cross_mark: everyday
-- Collaborator : [Dinoryong]() , []() , [](), [](), []()
+- Collaborator : [Dinoryong]() , []() , [](), [](), [](), [](), []()
 
 <br>
 
 ## :pencil2: Problemset
 
-> Programmers Kit [link](https://programmers.co.kr/learn/challenges)
+> Programmers Kit [link](https://school.programmers.co.kr/learn/challenges?order=recent&statuses=solved&page=1&languages=oracle)
 
 | date   | problem                                                                               | 정훈 | 승호 | 성욱 | 용재 | 도윤 | 영지 | 병준 |
 | ------ | ------------------------------------------------------------------------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
