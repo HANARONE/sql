@@ -1,7 +1,7 @@
 # sql
 
 05 
-select, sum,max,min,
+select, sum,max,min
 06
 group by, is null,
 join, string, date
