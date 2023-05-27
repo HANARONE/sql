@@ -43,7 +43,7 @@ testㅍㅎ휴ㅠㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡ
 - How to achieve goal ?
   - Solve 1 problem during dinner time
   - Whether its solved will be marked with :white_check_mark: or :negative_squared_cross_mark: everyday
-  - 일요일 저녁 6시까지 upload (upload 안 했으면 벌금 ^-^)
+  - 일요일 저녁 6시까지 upload (upload 안 했으면 커피 * 7명 ^-^)
     - **가장 중요** 모든 코드에 line by line 으로 주석 달기
   - 일요일 저녁 10시 20분에 slack study
     - 어려웠거나 or 시간이 오래 걸렸거나 or 함정에 걸렸거나 or 새로 알게 된 개념 or 헷갈렸던 문제 뽑기
