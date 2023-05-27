@@ -68,5 +68,5 @@ testㅍㅎ휴ㅠㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡ
 |        | [역순 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59035)          |  | ✅ |  |  |  | ✅ |  |
 |        | [모든 레코드 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/59034)          |  | ✅ |  |  |  | ✅ |  |
 |        | [12세 이하인 여자 환자 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132201)           |  | ✅ |  |  |  | ✅ |  |
-|        | [HackerRank_New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true)           |  |  |  |  |  |  |  |
+|        | [HackerRank_New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true)           |  |  |  |  |  | ✅ |  |
 
