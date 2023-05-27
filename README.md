@@ -15,7 +15,7 @@ join, string, date
 
 07 월
 <br>
-hackerank test
+leetcode, useful methods
 <br>
 
 08 월
@@ -28,16 +28,17 @@ leetcode test
 09 월
 <br>
 testㅍㅎ휴ㅠㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡ
+15분안에 상 수준 sql 2문제 맞추기
 <br>
 
-# Dinner with Algorithms Challenge
+# Dinner with SQL Challenge
 
 <br>
 
-## :notebook_with_decorative_cover: Algorithms Challenge (feat.Programmers,HackerRank,LeetCode)
+## :notebook_with_decorative_cover: SQL Challenge (feat.Programmers,HackerRank,LeetCode)
 
 - Goal :
-  1. Algorithmic Thinking
+  1. 15분안에 상 수준 sql 2문제 맞추기
   2. 1day 1commit
 - How to achieve goal ?
   - Solve 1 problem during dinner time
