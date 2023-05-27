@@ -44,6 +44,7 @@ testㅍㅎ휴ㅠㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡ
   - Solve 1 problem during dinner time
   - Whether its solved will be marked with :white_check_mark: or :negative_squared_cross_mark: everyday
   - 일요일 저녁 6시까지 upload (upload 안 했으면 벌금 ^-^)
+    - **가장 중요** 모든 코드에 line by line 으로 주석 달기
   - 일요일 저녁 10시 20분에 slack study
     - 어려웠거나 or 시간이 오래 걸렸거나 or 함정에 걸렸거나 or 새로 알게 된 개념 or 헷갈렸던 문제 뽑기
     - slack 에서 최대한 공유
@@ -68,5 +69,4 @@ testㅍㅎ휴ㅠㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡ
 |        | [모든 레코드 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/59034)          |  | ✅ |  |  |  |  |  |  |
 |        | [12세 이하인 여자 환자 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132201)           |  | ✅ |  |  |  |  |  |  |
 |        | [HackerRank_New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true)           |  |  |  |  |  |  |  |  |
-
 
