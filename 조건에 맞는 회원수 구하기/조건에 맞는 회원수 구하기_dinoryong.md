@@ -6,7 +6,7 @@ FROM USER_INFO
 -- !!! JOINED column은 data type이므로 to_char 함수로 문자형 변환 후에 => 문자 추출을 해야한다
 -- !!! 날짜형 자료를 문자열로 명확하게 포멧을 지정해서 변경해야 
 WHERE TO_CHAR(JOINED,'YYYY') = '2021'
--- 중첩 조건문
+-- where절 뒤에는 (연산자 & AND,OR 조건 & 범위 조건 & NULL 데이터 조건 & IN 조건 & EXISTS 조건 & LIKE 조건)이 중첩되어서 올 수 있다
 AND AGE BETWEEN 20 AND 29;
 
 
