@@ -12,6 +12,21 @@ WHERE AGE <= 12 AND GEND_CD = 'W'
 -- 정렬 기준은 나이는 내림차순, 이름은 오름차순, 순서 지켜서
 ORDER BY AGE DESC, PT_NAME ASC;
 
+-- CASE WHEN 조건을 아예 SELECT 안에서 써도 된다
+SELECT
+    PT_NAME,
+    PT_NO,
+    GEND_CD,
+    AGE,
+    CASE
+        WHEN TLNO IS NULL THEN 'NONE'
+        ELSE TLNO 
+        END AS TLNO
+FROM PATIENT
+WHERE AGE <=12
+    AND GEND_CD = 'W'
+ORDER BY AGE DESC, PT_NAME ASC;
+
 -- !! 문제를 꼼꼼하게 읽자 !! ""여자""환자 조건 빼먹음
 -- SELECT PT_NAME, PT_NO, GEND_CD, AGE, NVL(TLNO,'NONE') AS TLNO
 -- FROM PATIENT
