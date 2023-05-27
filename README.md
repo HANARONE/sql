@@ -63,7 +63,7 @@ testㅍㅎ휴ㅠㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡ
 |        | [상위 n개 레코드](https://school.programmers.co.kr/learn/courses/30/lessons/59405)           |  | ✅ |  |  |  | ✅ |  |
 |        | [여러 기준으로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59404)           |  | ✅ |  |  |  | ✅ |  |
 |        | [동물의 아이디와 이름](https://school.programmers.co.kr/learn/courses/30/lessons/59403)          |  | ✅ |  |  |  | ✅ |  |
-|        | [어린 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59037)          |  | ✅ |  |  |  |  |  |
+|        | [어린 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59037)          |  | ✅ |  |  |  | ✅ |  |
 |        | [아픈 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59036)          |  | ✅ |  |  |  |  |  |
 |        | [역순 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59035)          |  | ✅ |  |  |  |  |  |
 |        | [모든 레코드 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/59034)          |  | ✅ |  |  |  |  |  |
