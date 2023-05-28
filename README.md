@@ -53,7 +53,7 @@ leetcode test
 
 <br>
 
-- Collaborator : [Dinoryong]() , []() , [](), [](), [](), [](), []()
+- Collaborators : [Dinoryong]() , []() , [](), [](), [](), [](), []()
 
 <br>
 
