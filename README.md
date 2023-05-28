@@ -65,7 +65,7 @@ goorm test
 
 | date   | problem                                                                               | 정훈 | 승호 | 성욱 | 용재 | 도윤 | 영지 | 병준 |
 | ------ | ------------------------------------------------------------------------------------- | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| 05. 28 | [조건에 맞는 회원수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131535) |  | ✅ |✅  | ✅ |  | ✅ |✅|
+| 05. 29 | [조건에 맞는 회원수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131535) |  | ✅ |✅  | ✅ |  | ✅ |✅|
 |        | [상위 n개 레코드](https://school.programmers.co.kr/learn/courses/30/lessons/59405)           |  | ✅ | ✅ | ✅ |  | ✅ |✅|
 |        | [여러 기준으로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59404)           |  | ✅ | ✅ |✅ |  | ✅ |✅|
 |        | [동물의 아이디와 이름](https://school.programmers.co.kr/learn/courses/30/lessons/59403)          |  | ✅ | ✅ | ✅ |  | ✅ |✅|
