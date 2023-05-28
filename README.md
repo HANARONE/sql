@@ -43,12 +43,13 @@ testㅍㅎ휴ㅠㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡㅠㅡ
 - How to achieve goal ?
   - Solve 1 problem during dinner time
   - Whether its solved will be marked with :white_check_mark: or :negative_squared_cross_mark: everyday
-  - 일요일 저녁 6시까지 upload (upload 안 했으면 커피 * 7명 ^-^)
+  - 일요일 오후 6시 : upload 완료하기 (upload 안 했으면 커피 * 7명 ^-^)
     - **가장 중요!!!!!!!** 모든 코드에 line by line 으로 주석 달기
-  - 일요일 저녁 10시 20분에 slack study
+  - 일요일 오후 10시 20분 : slack study
     - 어려웠다 or 시간이 오래 걸렸다 or 함정에 걸렸다 or 새로 알게 된 개념 or 헷갈렸다 or 구글링해도 답을 봐도 모르겠다  => 문제 뽑기
     - slack 에서 접근방식, 주의점, 효율적 풀이, 헷갈리지 않게 할 방법, 새로운 개념, 왜 못 풀었는지, 구글링해도 왜 안 나왔는지, 이해 안 되는 부분 ... 공유
-  - 월요일 아침 08:35에 랜덤으로 스터디원이 문제를 어떻게 풀어야 <빠르고, 함정에 빠지지않게 무얼 주의해야하고, 효율적인지> 설명하기
+  - 월요일 오전 08시 35분 : 랜덤으로 solution 풀이
+    - 문제를 어떻게 풀어야 <빠르고, 함정에 빠지지않게 무얼 주의해야하고, 효율적인지> 설명하기
 
 <br>
 
