@@ -1,0 +1,5 @@
+SELECT COUNT(*) FROM USER_INFO WHERE TO_CHAR(JOINED, 'YYYY') = 2021 AND AGE>=20 AND AGE<=29 
+
+# 갯수를 셀때는 SELECT 문 뒤에 COUNT(*) 사용한다
+# 날짜 데이터를 추출할때 TO_CHAR(col_name, '형식') 을 사용한다
+# where 뒤에 여러 조건을 연결할땐 and를 사용한다
