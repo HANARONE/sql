@@ -1,0 +1,3 @@
+SELECT NAME -- NAME 컬럼 선택
+    FROM (SELECT * FROM ANIMAL_INS ORDER BY DATETIME) -- 서브쿼리로 DATETIME 기준 오름차순 정렬
+    WHERE ROWNUM = 1; -- 첫 행 선택
