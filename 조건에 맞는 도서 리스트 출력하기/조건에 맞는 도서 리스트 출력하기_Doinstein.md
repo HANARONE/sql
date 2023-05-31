@@ -1,0 +1,7 @@
+```
+SELECT BOOK_ID, TO_CHAR(PUBLISHED_DATE,'YYYY-MM-DD') AS PUBLISHED_DATE -- 날짜 포맷 설정
+    FROM BOOK
+    WHERE TO_CHAR(PUBLISHED_DATE,'YYYY') = '2021' -- 날짜 포맷 연도로 변경 후 '2021' 조건
+        AND CATEGORY = '인문' -- CATEGORY '인문' 조건
+    ORDER BY PUBLISHED_DATE;
+```

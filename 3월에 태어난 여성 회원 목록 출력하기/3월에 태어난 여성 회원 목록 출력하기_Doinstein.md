@@ -1,0 +1,8 @@
+```
+SELECT MEMBER_ID, MEMBER_NAME, GENDER, TO_CHAR(DATE_OF_BIRTH,'YYYY-MM-DD') AS DATE_OF_BIRTH
+    FROM MEMBER_PROFILE
+    WHERE TO_CHAR(DATE_OF_BIRTH,'MM') = '03' -- 생년월일 중 월 출력 포맷으로 변경 후 03월인것
+        AND GENDER = 'W' -- 성별이 여자
+        AND TLNO IS NOT NULL -- 전화번호가 NULL이 아닌 경우
+    ORDER BY MEMBER_ID;
+```
