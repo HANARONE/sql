@@ -1,0 +1,3 @@
+SELECT DR_NAME, DR_ID, MCDP_CD, TO_CHAR(HIRE_YMD, 'YYYY-MM-DD') FROM DOCTOR WHERE MCDP_CD = 'CS' OR MCDP_CD = 'GS' ORDER BY HIRE_YMD DESC, DR_NAME ASC
+
+-- 문제 마지막에 이름을 기준으로 정렬하라고 했는데 ID로 정렬하고 있었다.. 덤벙거리지 말자..
