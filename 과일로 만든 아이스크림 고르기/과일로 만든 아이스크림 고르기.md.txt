@@ -1,0 +1,8 @@
+SELECT F.FLAVOR FROM FIRST_HALF F JOIN ICECREAM_INFO I 
+ON F.FLAVOR = I.FLAVOR WHERE TOTAL_ORDER >= 3000 AND 
+I.INGREDIENT_TYPE = 'fruit_based' ORDER BY TOTAL_ORDER DESC
+
+-- 조인 시에 별칭 사용
+-- fruit_based를 "" 로 묶어서 인식이 안됐다.. 파이썬이랑 헷갈리는듯 ㅠㅠ
+
+
