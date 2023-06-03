@@ -1,0 +1,4 @@
+-- 코드를 입력하세요
+SELECT BOOK_ID, TO_CHAR(PUBLISHED_DATE, 'YYYY-MM-DD') FROM BOOK WHERE TO_CHAR(PUBLISHED_DATE, 'YYYY') = 2021 AND CATEGORY = '인문' ORDER BY PUBLISHED_DATE 
+
+-- 문제에서 제시한 데이트 포맷을 맞추기 위해서 SELECT 문에서 PUBLISHED_DATE를 연월일 형식으로 변경해주어야 했다. 이를 위해서 TO_CHAR를 사용해 형식을 바꿔주었다
