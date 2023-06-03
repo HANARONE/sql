@@ -1,0 +1,10 @@
+``` sql
+-- 코드를 입력하세요
+SELECT DR_NAME, DR_ID, MCDP_CD, TO_CHAR(HIRE_YMD,'YYYY-MM-DD') AS HIRE_YMD
+FROM DOCTOR
+WHERE MCDP_CD IN ('CS','GS')
+ORDER BY HIRE_YMD DESC, DR_NAME ASC
+
+-- 날짜 형식 결과랑 똑같이 맞추기
+-- IN 함수 확인
+```

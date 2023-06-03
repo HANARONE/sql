@@ -1,0 +1,14 @@
+``` sql
+SELECT MEMBER_ID, MEMBER_NAME, GENDER, 
+TO_CHAR(DATE_OF_BIRTH, 'YYYY-MM-DD') AS DATE_OF_BIRTH
+FROM MEMBER_PROFILE
+WHERE TLNO NOT IN 'NULL' AND GENDER = 'W' AND
+TO_CHAR(DATE_OF_BIRTH, 'MM') = '03'
+ORDER BY MEMBER_ID ASC
+
+-- 날짜형식 맞춰서 추출할 것
+-- NOT IN 조건 확인
+-- 처음에 3월 출생 조건 못보고 그냥 품
+-- 조건 여러가지 있을때 누락하지 말것.
+
+```
