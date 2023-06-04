@@ -77,7 +77,7 @@ goorm test
 |        | [12세 이하인 여자 환자 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132201)           | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |✅|
 |        | [HackerRank_New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true)           |  |  |  | ✅ | ✅ | ✅ |✅|
 | 06.04  | [재구매가 일어난 상품과 회원 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131536) |   ✅   |  ✅   | ✅     |   ✅   |  ✅   |  ✅   |  ✅  |
-|        | [과일로 만든 아이스크림 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/133025) |    ✅  |  ✅   |  ✅    |   ✅   |  ✅   |  ✅   |  ✅  |
+| [sol](https://github.com/HANARONE/sql/tree/main/06.04)       | [과일로 만든 아이스크림 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/133025) |    ✅  |  ✅   |  ✅    |   ✅   |  ✅   |  ✅   |  ✅  |
 |        | [평균 일일 대여 요금 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151136) |    ✅  |  ✅   |  ✅    |    ✅  |  ✅   |  ✅   | ✅ |
 |        | [조건에 맞는 도서 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144853) |  ✅    |  ✅   |  ✅    |   ✅   |  ✅   |  ✅   | ✅ |
 |        | [흉부외과 또는 일반외과 의사 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132203) |   ✅   |  ✅   |   ✅   |   ✅   |  ✅   |  ✅   | ✅ |
