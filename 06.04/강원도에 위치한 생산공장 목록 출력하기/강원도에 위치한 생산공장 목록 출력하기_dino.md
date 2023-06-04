@@ -1,6 +1,7 @@
 ```sql
 SELECT FACTORY_ID, FACTORY_NAME, ADDRESS
 FROM FOOD_FACTORY
+-- 주소가 '강원도'로 시작하는 row 뽑아내기
 WHERE ADDRESS LIKE '강원도%'
 ORDER BY 1;
 ```
