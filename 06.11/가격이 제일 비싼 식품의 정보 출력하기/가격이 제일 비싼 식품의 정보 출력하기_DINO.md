@@ -1,0 +1,9 @@
+```sql
+-- MYSQL 에서처럼 PRICE = MAX(PRICE)는 안 먹힘
+-- ROWNUM 사용 위해 INLINE QUERY 작성
+-- 내림차순 정렬했을 때 가장 큰 숫자
+SELECT A.*
+FROM (SELECT * FROM FOOD_PRODUCT ORDER BY PRICE DESC) A
+WHERE ROWNUM = 1;
+```
+

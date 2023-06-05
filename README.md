@@ -86,13 +86,13 @@ goorm test
 |        | [인기있는 아이스크림](https://school.programmers.co.kr/learn/courses/30/lessons/133024) |  ✅    |  ✅   |    ✅  |    ✅  |  ✅   |  ✅   | ✅ |
 |        | [3월에 태어난 여성 회원 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131120) |    ✅  |  ✅   |✅      |   ✅   |  ✅   |  ✅   | ✅ |
 |        | [서울에 위치한 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131118) |    ✅  |  ✅   |    ✅  |   ✅   |  ✅   |   ✅   | ✅ |
-| 06.11  | [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115) |      |      |      |      |      |      |      |
+| 06.11  | [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115) |      |      |      |      |      | ✅ |      |
 |        | [오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537) |      |      |      |      |      |      |      |
-|        | [가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697) |      |      |      |      |      |      |      |
-|        | [최댓값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59415) |      |      |      |      |      |      |      |
-|        | [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038) |      |      |      |      |      |      |      |
-|        | [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406) |      |      |      |      |      |      |      |
-|        | [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408) |      |      |      |      |      |      |      |
+|        | [가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697) |      |      |      |      |      | ✅ |      |
+|        | [최댓값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59415) |      |      |      |      |      | ✅ |      |
+|        | [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038) |      |      |      |      |      | ✅ |      |
+|        | [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406) |      |      |      |      |      | ✅ |      |
+|        | [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408) |      |      |      |      |      | ✅ |      |
 | 06.18 |  |      |      |      |      |      |      |      |
 |  |                                                              |      |      |      |      |      |      |      |
 |        |                                                              |      |      |      |      |      |      |      |
