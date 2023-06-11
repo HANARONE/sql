@@ -1,0 +1,3 @@
+-- 코드를 입력하세요
+SELECT MIN(DATETIME) -- MIN 함수를 사용하면 가장 먼저 들어온 동물(과거) 출력 가능
+FROM ANIMAL_INS
