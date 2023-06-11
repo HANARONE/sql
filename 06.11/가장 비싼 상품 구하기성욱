@@ -1,6 +1,0 @@
--- 코드를 입력하세요
-SELECT PRICE AS MAX_PRICE -- 칼럼 명 변경
-FROM (SELECT * FROM PRODUCT ORDER BY PRICE DESC) -- 인라인 뷰 활용하여 가격 순으로 정렬
-WHERE ROWNUM = 1; -- 행 번호 1번을 출력하여 가장 비싼 상품의 가격을 출력
-
-SELECT MAX(PRICE) AS MAX_PRICE FROM PRODUCT  -- MAX함수 사용해서도 풀이 가능
