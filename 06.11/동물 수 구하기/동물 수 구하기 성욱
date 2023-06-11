@@ -1,0 +1,4 @@
+-- 코드를 입력하세요
+SELECT COUNT(ANIMAL_ID) -- COUNT(칼럼명) 형태로 기술하면 NULL값을 제외하고 도출함, COUNT(*)를 사용하면 NULL값 포함하여 도출
+FROM ANIMAL_INS
+
