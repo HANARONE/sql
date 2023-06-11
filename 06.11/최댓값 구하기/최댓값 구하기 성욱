@@ -1,0 +1,3 @@
+-- 코드를 입력하세요
+SELECT MAX(DATETIME) -- 최근의 개념은 날짜 칼럼에 MAX를 사용하면 도출 가능함 .. MIN: 과거, MAX: 현재
+FROM ANIMAL_INS 
