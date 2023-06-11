@@ -1,0 +1,3 @@
+-- 코드를 입력하세요
+SELECT COUNT(DISTINCT(NAME)) -- 문제에서 NULL인 경우는 집계하지 말라고 했으니 COUNT() 안에 칼럼명을 기술하고 DISTINCT를 통해 중복을 제거하였다
+FROM ANIMAL_INS
