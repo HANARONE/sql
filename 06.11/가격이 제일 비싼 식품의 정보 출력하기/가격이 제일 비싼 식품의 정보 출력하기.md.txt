@@ -1,0 +1,3 @@
+-- 코드를 입력하세요
+SELECT * FROM (SELECT PRODUCT_ID, PRODUCT_NAME, PRODUCT_CD, CATEGORY, PRICE FROM FOOD_PRODUCT ORDER BY PRICE DESC) -- 인라인 뷰를 활용하여 우선 가격을 내림차순으로 정렬시켰다
+WHERE ROWNUM = 1 -- 가격 내림차순 정렬 후, 첫번째 행을 반환시키면 정담을 도출할 수 있다
