@@ -98,7 +98,7 @@ goorm test
 |        | [진료과별 총 예약 횟수 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132202) |      |   ✅   |    ✅  |      |   ✅   |      |      |
 |        | [고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040) |      |   ✅   |  ✅    |      |   ✅   |      |      |
 |        | [동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041) |      |   ✅   |   ✅   |      |   ✅   |      |      |
-|        | [입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412) |      |   ✅   |      |      |   ✅   |      |      |
+|        | [입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412) |      |   ✅   |  ✅    |      |   ✅   |      |      |
 |        | [가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530) |      |   ✅   |      |      |   ✅   |      |      |
 |        | [즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123) |      |   ✅   |      |      |   ✅   |      |      |
 |        |                                                              |      |      |      |      |      |      |      |
