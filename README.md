@@ -93,11 +93,11 @@ goorm test
 |        | [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038) |      |   ✅   |   ✅   |   ✅   |   ✅   | ✅ | ✅ |
 |        | [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406) |      |   ✅   |   ✅   |   ✅   |   ✅   | ✅ | ✅ |
 |        | [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408) |      |   ✅   |   ✅   |   ✅   |   ✅   | ✅ | ✅ |
-| 06.18 | [성분으로 구분한 아이스크림 총 주문량](https://school.programmers.co.kr/learn/courses/30/lessons/133026) |      |   ✅   |      |      |  ✅   |      |      |
-|  | [자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151137) |      |   ✅   |      |      |   ✅   |      |      |
-|        | [진료과별 총 예약 횟수 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132202) |      |   ✅   |      |      |   ✅   |      |      |
-|        | [고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040) |      |   ✅   |      |      |   ✅   |      |      |
-|        | [동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041) |      |   ✅   |      |      |   ✅   |      |      |
+| 06.18 | [성분으로 구분한 아이스크림 총 주문량](https://school.programmers.co.kr/learn/courses/30/lessons/133026) |      |   ✅   |   ✅   |      |  ✅   |      |      |
+|  | [자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151137) |      |   ✅   |✅      |      |   ✅   |      |      |
+|        | [진료과별 총 예약 횟수 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132202) |      |   ✅   |    ✅  |      |   ✅   |      |      |
+|        | [고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040) |      |   ✅   |  ✅    |      |   ✅   |      |      |
+|        | [동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041) |      |   ✅   |   ✅   |      |   ✅   |      |      |
 |        | [입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412) |      |   ✅   |      |      |   ✅   |      |      |
 |        | [가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530) |      |   ✅   |      |      |   ✅   |      |      |
 |        | [즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123) |      |   ✅   |      |      |   ✅   |      |      |
