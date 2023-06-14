@@ -1,0 +1,16 @@
+성분으로 구분한 아이스크림 총 주문량_kwak
+
+```sql
+SELECT B.INGREDIENT_TYPE, SUM(A.TOTAL_ORDER) AS TOTAL_ORDER
+--FIRST_HALF 테이블과 ICREAM_INFO 테이블 조인
+FROM FIRST_HALF A 
+JOIN ICECREAM_INFO B
+--기준 FLAVOR
+ON A.FLAVOR = B.FLAVOR
+--총 주문량
+GROUP BY B.INGREDIENT_TYPE
+--아이스크림의 총주문량을 총주문량이 작은 순서대로 조회(ASC)
+ORDER BY TOTAL_ORDER ASC
+;
+```
+
