@@ -1,0 +1,7 @@
+-- 코드를 입력하세요
+SELECT CAR_TYPE, COUNT(CAR_ID) AS CARS  -- 중복될 수 없는 CAR_ID를 활용해서 차량 수를 구하기
+FROM (SELECT * 
+      FROM CAR_RENTAL_COMPANY_CAR 
+      WHERE OPTIONS LIKE '%시트%')  -- 인라인뷰를 활용해서 시트라는 글자를 포함한 옵션을 찾기(LIKE 연산자를 이용)
+      GROUP BY CAR_TYPE 
+      ORDER BY CAR_TYPE
