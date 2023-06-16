@@ -1,0 +1,10 @@
+-- 코드를 입력하세요
+SELECT MCDP_CD AS "진료과코드", COUNT(APNT_NO) AS "5월예약건수" 
+FROM 
+(SELECT * 
+ FROM APPOINTMENT 
+ WHERE TO_CHAR(APNT_YMD, 'YYYY-MM') = '2022-05') -- 인라인 뷰 사용해서 22년 5월로 테이블 한정 
+ GROUP BY MCDP_CD -- 진료과코드로 그룹화 
+ ORDER BY "5월예약건수", "진료과코드"
+
+-- SELECT 절에서 칼럼 명 지정할 때 작은 따옴표 사용하면 오류 발생함.. 큰 따옴표 사용할 수 있도록..
