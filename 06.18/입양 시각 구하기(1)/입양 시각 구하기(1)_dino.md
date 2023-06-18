@@ -1,0 +1,12 @@
+```sql
+-- TO_NUMBER() 함수로 hour 앞의 0을 지워주는 처리, ALIAS 사용 확인
+SELECT TO_NUMBER(TO_CHAR(DATETIME, 'HH24')) AS HOUR, COUNT(*) AS COUNT
+FROM ANIMAL_OUTS
+-- BETWEEN
+WHERE TO_CHAR(DATETIME, 'HH24') BETWEEN 09 AND 19
+-- 시간대별로 보고싶으니까 group by hour
+GROUP BY TO_CHAR(DATETIME, 'HH24')
+-- 정렬 조건
+ORDER BY HOUR;
+```
+
