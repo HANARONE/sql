@@ -1,0 +1,9 @@
+```sql
+SELECT DISTINCT (CAR_ID), 
+CASE WHEN '2022-10-16' BETWEEN TO_CHAR(START_DATE, 'YYYY-MM-DD') AND TO_CHAR(END_DATE, 'YYYY-MM-DD')
+THEN '대여가능' ELSE '대여 가능' END AS 'AVAILABILITY' 
+FROM CAR_RENTAL_COMPANY_RENTAL_HISTORY
+ORDER BY CAR_ID
+-- FROM keyword not found where expected 왜 뜨는지 모르겠음
+-- 마찬가지로 왜 오류 뜨는지 모르겠음
+```
