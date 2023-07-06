@@ -1,0 +1,10 @@
+NULL 처리하기_kwak
+
+```sql
+-- 오라클에는 NVL, NVL2가 있다!!!
+-- NVL2('값', 'NOT NULL', 'NULL')
+SELECT ANIMAL_TYPE, NVL(NAME,'No name') AS NAME, SEX_UPON_INTAKE
+FROM ANIMAL_INS
+ORDER BY ANIMAL_ID;
+```
+

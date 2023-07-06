@@ -64,6 +64,7 @@ goorm test
 
 > Programmers Kit [link](https://school.programmers.co.kr/learn/challenges?order=recent&statuses=solved&page=1&languages=oracle)
 
+<<<<<<< HEAD
 | date   | problem                                                                               | 정훈 | 승호 | 성욱 | 용재 | 도윤 | 영지 | 병준 |
 | ------ | ------------------------------------------------------------------------------------- | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | 05. 29 | [조건에 맞는 회원수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131535) | ✅ | ✅ |✅  | ✅ | ✅ | ✅ |✅|
@@ -116,6 +117,60 @@ goorm test
 | |  | | | | |  | ||
 | |  | | | | |  | ||
 | |  | | | | |  | ||
+=======
+| date   | problem                                                                               | 승호 | 성욱 | 용재 | 도윤 | 영지 | 병준 |
+| ------ | ------------------------------------------------------------------------------------- | :--: | :--: | :--: | :--: | :--: | :--: |
+| 05. 29 | [조건에 맞는 회원수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131535) | ✅ |✅  | ✅ | ✅ | ✅ |✅|
+|        | [상위 n개 레코드](https://school.programmers.co.kr/learn/courses/30/lessons/59405)           | ✅ | ✅ | ✅ | ✅ | ✅ |✅|
+|        | [여러 기준으로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59404)           | ✅ | ✅ |✅ | ✅ | ✅ |✅|
+|        | [동물의 아이디와 이름](https://school.programmers.co.kr/learn/courses/30/lessons/59403)          | ✅ | ✅ | ✅ | ✅ | ✅ |✅|
+|        | [어린 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59037)          | ✅ | ✅ | ✅ | ✅ | ✅ |✅|
+|        | [아픈 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59036)          | ✅ | ✅ | ✅ | ✅ | ✅ |✅|
+|        | [역순 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59035)          | ✅ |✅  | ✅ | ✅ | ✅ |✅|
+|        | [모든 레코드 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/59034)          | ✅ | ✅ | ✅ | ✅ | ✅ |✅|
+|        | [12세 이하인 여자 환자 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132201)           | ✅ | ✅ | ✅ | ✅ | ✅ |✅|
+|        | [HackerRank_New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true)           |  |  | ✅ | ✅ | ✅ |✅|
+| 06.04  | [재구매가 일어난 상품과 회원 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131536) |  ✅   | ✅     |   ✅   |  ✅   |  ✅   |  ✅  |
+| [sol](https://github.com/HANARONE/sql/tree/main/06.04)       | [과일로 만든 아이스크림 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/133025) |  ✅   |  ✅    |   ✅   |  ✅   |  ✅   |  ✅  |
+|        | [평균 일일 대여 요금 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151136) |  ✅   |  ✅    |    ✅  |  ✅   |  ✅   | ✅ |
+|        | [조건에 맞는 도서 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144853) |  ✅   |  ✅    |   ✅   |  ✅   |  ✅   | ✅ |
+|        | [흉부외과 또는 일반외과 의사 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132203) |  ✅   |   ✅   |   ✅   |  ✅   |  ✅   | ✅ |
+|        | [강원도에 위치한 생산공장 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131112)) |  ✅   |   ✅   |    ✅  |  ✅   |  ✅   | ✅ |
+|        | [조건에 부합하는 중고거래 댓글 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164673) |  ✅   |  ✅    |   ✅   |  ✅   |  ✅   | ✅ |
+|        | [인기있는 아이스크림](https://school.programmers.co.kr/learn/courses/30/lessons/133024) |  ✅   |    ✅  |    ✅  |  ✅   |  ✅   | ✅ |
+|        | [3월에 태어난 여성 회원 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131120) |  ✅   |✅      |   ✅   |  ✅   |  ✅   | ✅ |
+|        | [서울에 위치한 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131118) |  ✅   |    ✅  |   ✅   |  ✅   |   ✅   | ✅ |
+| 06.11  | [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115) |   ✅   |    ✅  |   ✅   |   ✅   | ✅ | ✅ |
+|        | [오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537) |   ✅   |    ✅  |   ✅   |   ✅   |      | ✅ |
+|        | [가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697) |   ✅   |     ✅ |   ✅   |   ✅   | ✅ | ✅ |
+|        | [최댓값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59415) |   ✅   |  ✅    |   ✅   |   ✅   | ✅ | ✅ |
+|        | [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038) |   ✅   |   ✅   |   ✅   |   ✅   | ✅ | ✅ |
+|        | [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406) |   ✅   |   ✅   |   ✅   |   ✅   | ✅ | ✅ |
+|        | [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408) |   ✅   |   ✅   |   ✅   |   ✅   | ✅ | ✅ |
+| 06.18 | [성분으로 구분한 아이스크림 총 주문량](https://school.programmers.co.kr/learn/courses/30/lessons/133026) |   ✅   |   ✅   |   ✅   |  ✅   | ✅ | ✅ |
+|  | [자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151137) |   ✅   |✅      |   ✅   |   ✅   | ✅ | ✅ |
+|        | [진료과별 총 예약 횟수 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132202) |   ✅   |    ✅  |   ✅   |   ✅   | ✅ | ✅ |
+|        | [고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040) |   ✅   |  ✅    |   ✅   |   ✅   | ✅ | ✅ |
+|        | [동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041) |   ✅   |   ✅   |   ✅   |   ✅   | ✅ | ✅ |
+|        | [입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412) |   ✅   |  ✅    |   ✅   |   ✅   | ✅ | ✅ |
+|        | [가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530) |   ✅   |      |   ✅   |   ✅   | ✅ | ✅ |
+|        | [즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123) |   ✅   |      |   ✅   |   ✅   | ✅ | ✅ |
+| 06.25 | [년, 월, 성별 별 상품 구매 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131532) |   ✅   |      |      |   ✅   | ✅ | ✅ |
+|        | [입양 시각 구하기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59413) |      |      |      |   ✅   | ✅ | ✅ |
+|        | [대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151139) |      |      |      |   ✅   | ✅ | ✅ |
+|        | [자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/157340) |      |      |      |   ✅   | ✅ | ✅ |
+|        | [카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855) |✅ | | |✅  | ✅ |✅|
+| | [조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668) |✅ | | | ✅ | ✅ |✅|
+| | [식품분류별 가장 비싼 식품의 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |✅ | | | ✅ | ✅ |✅|
+| | [저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856) |✅ | | |  ✅| ✅ |✅|
+| 07.09 | [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114) | | | | ✅ | |✅|
+| | [이름이 없는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59039) | | | | ✅ | |✅|
+| | [이름이 있는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59407) | | | | ✅ | |✅|
+| | [나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528) | | | | ✅ | |✅|
+| | [NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410) | | | | ✅ | |✅|
+| |  | | | |  | ||
+| |  | | | |  | ||
+>>>>>>> main
 
 
 
