@@ -163,11 +163,11 @@ goorm test
 | | [조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668) |✅ | | | ✅ | ✅ |✅|
 | | [식품분류별 가장 비싼 식품의 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |✅ | | | ✅ | ✅ |✅|
 | | [저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856) |✅ | | |  ✅| ✅ |✅|
-| 07.09 | [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114) | | | | ✅ | ✅ |✅|
-| | [이름이 없는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59039) | | | | ✅ | ✅ |✅|
-| | [이름이 있는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59407) | | | | ✅ | ✅ |✅|
-| | [나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528) | | | | ✅ | ✅ |✅|
-| | [NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410) | | | | ✅ | ✅ |✅|
+| 07.09 | [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114) |✅ | | | ✅ | ✅ |✅|
+| | [이름이 없는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59039) |✅ | | | ✅ | ✅ |✅|
+| | [이름이 있는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59407) |✅ | | | ✅ | ✅ |✅|
+| | [나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528) | ✅| | | ✅ | ✅ |✅|
+| | [NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410) | ✅| | | ✅ | ✅ |✅|
 | |  | | | |  | ||
 | |  | | | |  | ||
 >>>>>>> main
