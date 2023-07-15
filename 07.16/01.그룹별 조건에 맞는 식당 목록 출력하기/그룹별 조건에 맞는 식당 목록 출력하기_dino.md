@@ -1,0 +1,19 @@
+```SQL
+SELECT P.MEMBER_NAME, R.REVIEW_TEXT, TO_CHAR(R.REVIEW_DATE, 'YYYY-MM-DD') REVIEW_DATE
+FROM MEMBER_PROFILE P
+JOIN REST_REVIEW R
+ON P.MEMBER_ID = R.MEMBER_ID
+--리뷰 개수가 제일 많은 아이디를 골라야 하니까 아이디별로 그룹핑했을 때 가장 많이 카운팅 되는 아이디를 고른다
+WHERE P.MEMBER_ID IN (
+    SELECT MEMBER_ID
+    FROM REST_REVIEW
+    GROUP BY MEMBER_ID
+    HAVING COUNT(*) = (
+            SELECT MAX(count(*))
+            FROM REST_REVIEW
+            GROUP BY MEMBER_ID
+                )
+)
+ORDER BY 3, 2
+```
+
