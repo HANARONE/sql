@@ -68,12 +68,12 @@ goorm test
 | DATE  | Description                                                  | 영지 | 도윤 | 승호 | 용재 | 병준 | 성욱 |
 | ----- | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- | ---- |
 |       |                                                              |      |      |      |      |      |      |
-| 07.16 | [그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124?language=oracle) | ✅ |   ✅   |      |      | ✅    |      |
-|       | [조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854) | ✅ |   ✅   |   ✅   |      | ✅    |      |
-|       | [주문량이 많은 아이스크림들 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/133027?language=oracle) | ✅ |   ✅   |   ✅   |      | ✅    |      |
-|       | [특정 기간동안 대여 가능한 자동차들의 대여비용 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157339) |      |   ✅   |      |      | ✅ |      |
-|       | [5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117?language=oracle) |      |   ✅   |   ✅   |      | ✅    |      |
-|       | [없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042?language=oracle) |      |   ✅   |    ✅  |      | ✅    |      |
+| 07.16 | [그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124?language=oracle) | ✅ |   ✅   |      |   ✅   | ✅    |      |
+|       | [조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854) | ✅ |   ✅   |   ✅   |   ✅   | ✅    |      |
+|       | [주문량이 많은 아이스크림들 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/133027?language=oracle) | ✅ |   ✅   |   ✅   |   ✅   | ✅    |      |
+|       | [특정 기간동안 대여 가능한 자동차들의 대여비용 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157339) |      |   ✅   |      |  ✅    | ✅ |      |
+|       | [5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117?language=oracle) |      |   ✅   |   ✅   |   ✅   | ✅    |      |
+|       | [없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042?language=oracle) |      |   ✅   |    ✅  |   ✅   | ✅    |      |
 
 
 
@@ -122,19 +122,19 @@ goorm test
 |        | [입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412) |   ✅   |  ✅    |   ✅   |   ✅   | ✅ | ✅ |
 |        | [가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530) |   ✅   |      |   ✅   |   ✅   | ✅ | ✅ |
 |        | [즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123) |   ✅   |      |   ✅   |   ✅   | ✅ | ✅ |
-| 06.25 | [년, 월, 성별 별 상품 구매 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131532) |   ✅   |      |      |   ✅   | ✅ | ✅ |
+| 06.25 | [년, 월, 성별 별 상품 구매 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131532) |   ✅   |      |   ✅   |   ✅   | ✅ | ✅ |
 |        | [입양 시각 구하기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59413) |      |      |      |   ✅   | ✅ | ✅ |
-|        | [대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151139) |      |      |      |   ✅   | ✅ | ✅ |
-|        | [자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/157340) |      |      |      |   ✅   | ✅ | ✅ |
-|        | [카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855) |✅ | | |✅  | ✅ |✅|
-| | [조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668) |✅ | | | ✅ | ✅ |✅|
-| | [식품분류별 가장 비싼 식품의 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |✅ | | | ✅ | ✅ |✅|
-| | [저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856) |✅ | | |  ✅| ✅ |✅|
-| 07.09 | [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114) | | | | ✅ | ✅ |✅|
-| | [이름이 없는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59039) |✅ | | | ✅ | ✅ |✅|
-| | [이름이 있는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59407) |✅ | | | ✅ | ✅ |✅|
-| | [나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528) |✅ | | | ✅ | ✅ |✅|
-| | [NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410) |✅ | | | ✅ | ✅ |✅|
+|        | [대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151139) |      |      |   ✅   |   ✅   | ✅ | ✅ |
+|        | [자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/157340) |      |      |   ✅   |   ✅   | ✅ | ✅ |
+|        | [카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855) |✅ | |✅ |✅  | ✅ |✅|
+| | [조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668) |✅ | |✅ | ✅ | ✅ |✅|
+| | [식품분류별 가장 비싼 식품의 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |✅ | |✅ | ✅ | ✅ |✅|
+| | [저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856) |✅ | |✅ |  ✅| ✅ |✅|
+| 07.09 | [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114) | | |✅ | ✅ | ✅ |✅|
+| | [이름이 없는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59039) |✅ | |✅ | ✅ | ✅ |✅|
+| | [이름이 있는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59407) |✅ | |✅ | ✅ | ✅ |✅|
+| | [나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528) |✅ | |✅ | ✅ | ✅ |✅|
+| | [NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410) |✅ | |✅ | ✅ | ✅ |✅|
 
 
 
