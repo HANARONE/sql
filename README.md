@@ -65,20 +65,20 @@ goorm test
 
 
 
-| DATE  | Description                                                  | 영지 | 도윤 | 승호 | 용재 | 병준 | 성욱 |
-| ----- | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- | ---- |
-| 07.23 | [대여 기록이 존재하는 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157341) |  | ✅ | ✅ |  | ✅ |  |
-|  | [조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |  | ✅ | ✅ |  | ✅ |  |
-|  | [자동차 대여 기록에서 장기/단기 대여 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/151138) |  |  ✅| ✅ |  | ✅ |  |
-|  | [자동차 대여 기록 별 대여 금액 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151141) |  | ✅ | ✅ |  |  |  |
-|       | [특정 옵션이 포함된 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157343) |      |   ✅   |   ✅   |      | ✅ |      |
-||[조건에 맞는 사용자 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164670)||✅|✅||✅||
-| 07.16 | [그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124?language=oracle) | ✅ |   ✅   |      |   ✅   | ✅    |      |
-|       | [조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854) | ✅ |   ✅   |   ✅   |   ✅   | ✅    |      |
-|       | [주문량이 많은 아이스크림들 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/133027?language=oracle) | ✅ |   ✅   |   ✅   |   ✅   | ✅    |      |
-|       | [특정 기간동안 대여 가능한 자동차들의 대여비용 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157339) | ✅ |   ✅   |      |  ✅    | ✅ |      |
-|       | [5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117?language=oracle) | ✅ |   ✅   |   ✅   |   ✅   | ✅    |      |
-|       | [없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042?language=oracle) | ✅ |   ✅   |    ✅  |   ✅   | ✅    |      |
+| DATE  | Description                                                  | 영지 | 도윤 | 승호 | 용재 | 병준 |
+| ----- | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- |
+| 07.23 | [대여 기록이 존재하는 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157341) | ✅ | ✅ | ✅ |  | ✅ |
+|  | [조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164671) | ✅ | ✅ | ✅ |  | ✅ |
+|  | [자동차 대여 기록에서 장기/단기 대여 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/151138) | ✅ |  ✅| ✅ |  | ✅ |
+|  | [자동차 대여 기록 별 대여 금액 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151141) | ✅ | ✅ | ✅ |  |  |
+|       | [특정 옵션이 포함된 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157343) | ✅ |   ✅   |   ✅   |      | ✅ |
+||[조건에 맞는 사용자 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164670)|✅|✅|✅||✅|
+| 07.16 | [그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124?language=oracle) | ✅ |   ✅   |      |   ✅   | ✅    |
+|       | [조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854) | ✅ |   ✅   |   ✅   |   ✅   | ✅    |
+|       | [주문량이 많은 아이스크림들 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/133027?language=oracle) | ✅ |   ✅   |   ✅   |   ✅   | ✅    |
+|       | [특정 기간동안 대여 가능한 자동차들의 대여비용 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157339) | ✅ |   ✅   |      |  ✅    | ✅ |
+|       | [5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117?language=oracle) | ✅ |   ✅   |   ✅   |   ✅   | ✅    |
+|       | [없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042?language=oracle) | ✅ |   ✅   |    ✅  |   ✅   | ✅    |
 
 
 
