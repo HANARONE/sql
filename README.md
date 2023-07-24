@@ -67,7 +67,7 @@ goorm test
 
 | DATE  | Description                                                  | 영지 | 도윤 | 승호 | 용재 | 병준 |
 | ----- | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- |
-|  | [카테고리 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131529) |  |  |  |  |  |
+| 07.30 | [카테고리 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131529) |  |  |  |  |  |
 |  | [DATETIME에서 DATE로 형 변환](https://school.programmers.co.kr/learn/courses/30/lessons/59414) |  |  |  |  |  |
 |  | [오랜 기간 보호한 동물(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59411) |  |  |  |  |  |
 |  | [중성화 여부 파악하기](https://school.programmers.co.kr/learn/courses/30/lessons/59409) |  |  |  |  |  |
