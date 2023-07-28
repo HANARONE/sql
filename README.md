@@ -67,11 +67,11 @@ goorm test
 
 | DATE  | Description                                                  | 영지 | 도윤 | 승호 | 용재 | 병준 |
 | ----- | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- |
-| 07.30 | [카테고리 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131529) |  |  |  |  |  |
-|  | [DATETIME에서 DATE로 형 변환](https://school.programmers.co.kr/learn/courses/30/lessons/59414) |  |  |  |  |  |
-|  | [오랜 기간 보호한 동물(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59411) |  |  |  |  |  |
-|  | [중성화 여부 파악하기](https://school.programmers.co.kr/learn/courses/30/lessons/59409) |  |  |  |  |  |
-|  | [이름에 el이 들어가는 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59047) |  |  |  |  |  |
+| 07.30 | [카테고리 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131529) |  |  |  |  | ✅ |
+|  | [DATETIME에서 DATE로 형 변환](https://school.programmers.co.kr/learn/courses/30/lessons/59414) |  |  |  |  | ✅ |
+|  | [오랜 기간 보호한 동물(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59411) |  |  |  |  | ✅ |
+|  | [중성화 여부 파악하기](https://school.programmers.co.kr/learn/courses/30/lessons/59409) |  |  |  |  | ✅ |
+|  | [이름에 el이 들어가는 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59047) |  |  |  |  | ✅ |
 | 07.23 | [대여 기록이 존재하는 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157341) | ✅ | ✅ | ✅ | ✅ | ✅ |
 |  | [조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164671) | ✅ | ✅ | ✅ | ✅ | ✅ |
 |  | [자동차 대여 기록에서 장기/단기 대여 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/151138) | ✅ |  ✅| ✅ | ✅ | ✅ |
