@@ -1,0 +1,9 @@
+```sql
+SELECT ANIMAL_ID, NAME
+FROM ANIMAL_INS
+WHERE (NAME LIKE '%el%' OR NAME LIKE '%El%')
+-- el과 El이름이 들어간거 찾기~
+AND ANIMAL_TYPE= 'Dog'
+ORDER BY NAME
+```
+
